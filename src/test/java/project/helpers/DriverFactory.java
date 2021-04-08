@@ -9,8 +9,6 @@ public class DriverFactory {
 
     /**
      * Метод создания драйвера
-     *
-     * @param config экземпляр класса config
      * @return chromeDriver
      */
     public static WebDriver createDriver() {
