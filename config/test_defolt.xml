@@ -1,0 +1,7 @@
+<suite name="Calculator">
+    <test name="CalculatotTests">
+        <classes>
+            <class name="project.tests.Calculator"/>
+        </classes>
+    </test>
+</suite>
